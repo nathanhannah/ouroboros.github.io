@@ -4,4 +4,12 @@
 @import "{{ site.theme }}";
 body {
     background-color: grey;
+    font-family: "Courier New", Courier, monospace;
 }
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+    
