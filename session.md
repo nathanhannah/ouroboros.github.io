@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Contents
+Index
 -----
 <ul>
   {% for post in site.posts %}
