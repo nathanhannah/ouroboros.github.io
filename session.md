@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Home
+Contents
 -----
 <ul>
   {% for post in site.posts %}
