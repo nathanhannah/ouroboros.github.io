@@ -7,7 +7,7 @@ Index
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.date }}
+      <p>{{ post.date }}</p>
     </li>
   {% endfor %}
 </ul>
